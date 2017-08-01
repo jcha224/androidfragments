@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="groupn.tcss450.uw.edu.fragmentslab.FirstFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <Button
+        android:id="@+id/redButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RED FRAGMENT" />
+
+    <Button
+        android:id="@+id/greenButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GREEN FRAGMENT" />
+
+    <Button
+        android:id="@+id/blueButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BLUE FRAGMENT" />
+
+    <Button
+        android:id="@+id/purpleButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PURPLE FRAGMENT" />
+
+    <Button
+        android:id="@+id/goldButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GOLD FRAGMENT" />
+
+</LinearLayout>
